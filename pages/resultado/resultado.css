@@ -162,7 +162,7 @@ main button:hover {
     cursor: pointer;
 }
 
-@media(min-widht:1160px) {
+@media(min-width: 1160px) {
     body {
         background: var(--bg-desktop) var(--bg-color);
         background-size: cover;
